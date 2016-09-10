@@ -2,3 +2,6 @@ this is my first project
 i am a contributer B
 i am a collaborator
 wow i am a dev branch fix
+1 feature
+2 fix
+3 username
